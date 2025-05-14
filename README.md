@@ -1,6 +1,6 @@
 ## 👨🏻‍💻 Harisson Alves
 
-**`Desenvolvedor FullStack`**
+**`Desenvolvedor Front-End`**
 Me chamo Harisson Alves, tenho 24 anos e sou natural de Minas Gerais. Atualmente, estou cursando Análise e Desenvolvimento de Sistemas na ANHANGUERA. Desenvolvedor de Sistemas em busca de oportunidade de estágio ou nível Júnior. Possuo foco em integração de PHP com HTML, CSS e Javascript, Jquery, além de integração com bancos de dados MySQL e PDO. Sou comunicativo, proativo e atento aos detalhes, buscando aplicar meus conhecimentos e aprender continuamente em um ambiente profissional.
 
 <p align="left">
